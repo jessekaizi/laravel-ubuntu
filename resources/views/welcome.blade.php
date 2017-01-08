@@ -75,11 +75,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                  Laravel
+                  欢迎你的到了！
                 </div>
 
                 <div class="links">
-              感谢laravist社区，及JellyBool ！！
+             2017.01.09
                 </div>
             </div>
         </div>
