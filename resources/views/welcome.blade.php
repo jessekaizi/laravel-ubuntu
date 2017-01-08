@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                   欢迎大黄同学来检查
                 </div>
 
                 <div class="links">
